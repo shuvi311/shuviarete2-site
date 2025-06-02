@@ -1,15 +1,14 @@
-# SHUVI Areté A.E. Website
+# SHUVI Areté A.E. - Real Estate & Development Website
 
-This is the source code for the SHUVI Areté A.E. real estate website.
-Built with React/Next.js, ready for deployment via Vercel.
+This is the official website project for SHUVI Areté A.E.
 
 ## Features
-- Fully responsive design
-- Contact form with FormSubmit integration
-- Embedded Google Map
-- Gallery carousel
-- Multi-language display
-- Logo integration
+
+- English and Greek versions
+- Contact form integrated with FormSubmit
+- Clean modern design with logo
+- Ready to deploy on Vercel
 
 ## Deployment
-Deploy directly to Vercel or upload the code to GitHub and import into Vercel.
+
+Upload this repository to GitHub and import directly into Vercel for one-click deployment.
